@@ -7,7 +7,7 @@ Full stack web developer
 Soy apasionado por el aprendizaje de nuevas tecnologías y considero que éstas son fundamentales en mi vida. Por eso, estoy en constante búsqueda de proyectos desafiantes e innovadores que me permitan crecer profesionalmente. Estoy comprometido a seguir formándome y mejorando para poder ofrecer soluciones de calidad en cada proyecto en el que tenga la oportunidad de participar.
 
 * 🌍  I'm based in Santa Fe, Argentina
-* 🖥️  See my portfolio at [myporfolio](http://matiaslenci.vercel.app/)
+* 🖥️  See my portfolio at [myporfolio](https://portfolio-matiaslenci.vercel.app/)
 * ✉️  You can contact me at [matiaslenci@gmail.com](mailto:matiaslenci@gmail.com)
 
 ### Skills
